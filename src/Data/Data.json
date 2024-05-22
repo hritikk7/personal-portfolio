@@ -1,0 +1,88 @@
+[
+    {
+        "companyName": "Intelliflow.ai",
+        "duration": "March 2022 - February 2024",
+        "location": "Bangalore, India",
+        "link": "",
+        "experiences": [
+            {
+                "designation": "Software Engineer",
+                "duration": "July 2023 - February 2024",
+                "description": [
+                    "Collaborated with a cross-functional team to develop features for an enterprise SaaS platform, adhering to agile development methodologies and delivering high-quality products on a consistent basis.",
+                    "Designed, coded, and tested end-to-end workflows and features of the enterprise SaaS product, ensuring adherence to quality, performance, and security guidelines.",
+                    "Spearheaded the development of critical platform features such as user profile management, app creation from templates, and interactive UI design, aligning with the company’s agile development process.",
+                    "Led the initiative to create essential platform functionalities, such as user profile management, app creation from templates, and interactive UI design; instrumental in driving a 25% boost in user retention and satisfaction.",
+                    "Led initiatives to improve customer defects, resulting in a 30% reduction in defects and improved customer satisfaction.",
+                    "Participated in agile development process, unit testing, and documentation, contributing to the timely delivery of high-quality software solutions."
+                ],
+                "skills": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "React",
+                    "React Bootstrap",
+                    "NodeJs",
+                    "ExpressJs",
+                    "MongoDB",
+                    "Gitlab",
+                    "Docker",
+                    "AWS",
+                    "Linux",
+                    " Sass",
+                    " Git",
+                    "Agile Methodologies",
+                    " Test Driven Development (TDD).",
+                    " Git"
+                ]
+            },
+            {
+                "designation": "Software Engineer Intern",
+                "duration": "March 2022 - June 2023",
+                "description": [
+                    "Gained hands-on experience in building user interfaces (UIs) and integrating APIs within an enterprise software environment.",
+                    "Implemented pagination on various platform modules, enhancing user experience and data navigation.",
+                    "Contributed to bug fixes and general platform maintenance, ensuring smooth operation and user satisfaction."
+                ],
+                "skills": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "React",
+                    " HTML5",
+                    " CSS3",
+                    " Sass",
+                    " Git"
+                   
+                ]
+            }
+        ]
+    },
+    {
+        "companyName": "Stark Tech Innovative Lab",
+        "duration": "February 2021 - December 2021",
+        "location": "",
+        "link": "",
+        "experiences": [
+            {
+                "designation": "Front End Developer",
+                "duration": "February 2021 - December 2021",
+                "description": [
+                    "Created a professional and informative online presence for SSSVN, enhancing their digital outreach and community engagement.",
+                    "Developed critical web development skills through independent project ownership and execution.",
+                    "Demonstrated strong time management and problem-solving abilities during project development."
+                ],
+                "skills": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    " Bootstrap",
+                    " PHP",
+                    "Figma",
+                    "UI/UX"
+                    
+                ]
+            }
+        ]
+    }
+]

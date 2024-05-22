@@ -1,0 +1,72 @@
+[
+    {
+        "companyName": "Neudesic (An IBM Company)",
+        "duration": "Dec 2021 - Present",
+        "location": "Bengaluru, Karnataka, India",
+        "link": "https://www.neudesic.com/",
+        "experiences": [
+            {
+                "designation": "Consultant I",
+                "duration": "October 2023 - Present",
+                "description": [
+                    "Conducted requirement analysis and led solution development for new projects.",
+                    "Addressed project gaps through strategic problem-solving and effective communication.",
+                    "Facilitated collaborative discussions to ensure team alignment and project success."
+                ],
+                "skills": [
+                    "JavaScript",
+                    " Typescript",
+                    " React Js",
+                    " Node Js",
+                    " Express Js",
+                    " Jest",
+                    " HTML",
+                    " CSS",
+                    " HTML5",
+                    " CSS3",
+                    " Sass",
+                    " MySQL",
+                    " Mongo Db",
+                    "Azure(Cosmos Db)",
+                    " Dot net",
+                    " C#",
+                    " WebSocket",
+                    " Material Ui",
+                    " Tailwind",
+                    " Bootstrap",
+                    " React-Redux",
+                    " Redux-Saga",
+                    " React-hook-form",
+                    " Git",
+                    "Agile Methodologies",
+                    " Test Driven Development (TDD)."
+                ]
+            },
+            {
+                "designation": "Associate Consultant",
+                "duration": "December 2021 - October 2023",
+                "description": [
+                    "Collaborated cross-functionally to deliver high-quality software solutions using .NET, React.js, and Azure technologies.",
+                    "Contributed significantly to full-stack development projects with a focus on front-end and back-end implementation.",
+                    "Managed project timelines and budgets, exceeding client expectations with deliverables."
+                ],
+                "skills": [
+                    " Typescript",
+                    " React Js",
+                    " HTML",
+                    " CSS",
+                    " HTML5",
+                    " CSS3",
+                    " MySQL",
+                    "Azure(Cosmos Db)",
+                    " Dot net",
+                    " C#",
+                    " React-Redux",
+                    " Redux-Saga",
+                    " React-hook-form",
+                    " Git"
+                ]
+            }
+        ]
+    }
+]

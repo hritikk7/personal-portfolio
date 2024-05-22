@@ -1,0 +1,27 @@
+[
+  {
+    "projectName": "Stock Buddy",
+    "githubLink": "https://github.com/hritikk7/StockBuddy",
+    "liveLink": "https://github.com/hritikk7/StockBuddy",
+    "description": [
+        "Developed a dynamic stock market app using React Native and Real Time Finance API.",
+        "Implemented secure login with email and password using Redux.",
+        "Enabled real-time stock search with detailed stock cards (name, ticker, price, image).",
+        "Created an interactive UI with a bottom sheet and paginated stock display.",
+        "Managed stock orders with add, remove, and swipe to buy functionalities, including success notifications.",
+        "Utilized Market Trend API for trending stocks and Search API for stock searches."
+    ],
+    "skills": [
+      " React Native",
+      " Android Studio",
+      " Typescript",
+      " React Redux",
+      " React Router",
+      " API Integration",
+      " RESTful APIs",
+      " Agile Methodologies",
+      " Mobile App Development",
+      " Real-time Data Handling"
+    ]
+  }
+]
